@@ -1,0 +1,10 @@
+{
+  "domain": "dev-akkv4t3k.us.auth0.com",
+  "clientId": "REWIhmFQMFrLWVTfpA6Vn3rdrWDWkLXa",
+  "authorizationParams": {
+    "audience": "{yourApiIdentifier}"
+  },
+  "apiUri": "http://localhost:3001",
+  "appUri": "http://localhost:4200",
+  "errorPath": "/error"
+}
